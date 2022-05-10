@@ -174,7 +174,7 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background-image: url('/Login_v2/images/background/backgrond.jpg');
+  background-image: url('../images/background/backgrond.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
 }
