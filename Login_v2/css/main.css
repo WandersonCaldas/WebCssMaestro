@@ -174,18 +174,17 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background-image: url('/images/background/backgrond.jpg');
+  background-image: url('/Login_v2/images/background/backgrond.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .wrap-login100 {
-  width: 390px;
+  width: 580px;  
   background: #fff;
   border-radius: 10px;
   overflow: hidden;
-  padding: 77px 55px 33px 55px;  
-  margin-right: 60%;
+  padding: 77px 55px 33px 55px;
 
   box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
@@ -221,7 +220,7 @@ iframe {
   width: 100%;
   position: relative;
   border-bottom: 2px solid #adadad;
-  margin-bottom: 37px;
+  margin-bottom: 50px;
 }
 
 .input100 {
